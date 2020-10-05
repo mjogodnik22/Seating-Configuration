@@ -1,0 +1,31 @@
+    Sellable Seats: 36
+  Section Capacity: 112
+Seating Efficiency: 32.14%
+
+Goodness Score: 0.833
+
+Sellable 12 Blocks: 2
+Sellable 8 Blocks: 1
+Sellable 2 Blocks: 2
+
+0
+00
+000
+0011
+00000
+000011
+0000000
+00110011
+00110011
+00110011
+00110011
+00000011
+00000011
+00111000
+0011100
+001110
+00111
+0000
+000
+00
+0

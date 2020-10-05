@@ -1,0 +1,63 @@
+Attempt 1/10 (100 reps):
+Time: 3.939130
+Goodness Score: 0.814159
+Attempt 2/10 (100 reps):
+Time: 3.905116
+Goodness Score: 0.801762
+Attempt 3/10 (100 reps):
+Time: 3.983201
+Goodness Score: 0.791304
+Attempt 4/10 (100 reps):
+Time: 3.910455
+Goodness Score: 0.811758
+Attempt 5/10 (100 reps):
+Time: 4.070445
+Goodness Score: 0.806667
+Attempt 6/10 (100 reps):
+Time: 4.010671
+Goodness Score: 0.794182
+Attempt 7/10 (100 reps):
+Time: 3.956202
+Goodness Score: 0.832574
+Attempt 8/10 (100 reps):
+Time: 3.974122
+Goodness Score: 0.815789
+Attempt 9/10 (100 reps):
+Time: 4.165159
+Goodness Score: 0.812646
+Attempt 10/10 (100 reps):
+Time: 4.117255
+Goodness Score: 0.807010
+Overall:
+Average Time: 4.003176
+Average Goodness Score: 0.808785
+Attempt 1/5 (1000 reps):
+Time: 38.385314
+Goodness Score: 0.803493
+Attempt 2/5 (1000 reps):
+Time: 37.711950
+Goodness Score: 0.793103
+Attempt 3/5 (1000 reps):
+Time: 38.579754
+Goodness Score: 0.793103
+Attempt 4/5 (1000 reps):
+Time: 38.621471
+Goodness Score: 0.799569
+Attempt 5/5 (1000 reps):
+Time: 37.604166
+Goodness Score: 0.799138
+Overall:
+Average Time: 38.180531
+Average Goodness Score: 0.797681
+Attempt 1/3 (10000 reps):
+Time: 384.025284
+Goodness Score: 0.796559
+Attempt 2/3 (10000 reps):
+Time: 392.573878
+Goodness Score: 0.802966
+Attempt 3/3 (10000 reps):
+Time: 386.469326
+Goodness Score: 0.810704
+Overall:
+Average Time: 387.689496
+Average Goodness Score: 0.803410

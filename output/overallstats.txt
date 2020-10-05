@@ -1,0 +1,11 @@
+    Sellable Seats: 519
+  Section Capacity: 1472
+Seating Efficiency: 35.26%
+
+Goodness Score: 0.828
+
+Sellable 12 Blocks: 29
+Sellable 8 Blocks: 14
+Sellable 4 Blocks: 10
+Sellable 3 Blocks: 1
+Sellable 2 Blocks: 8
